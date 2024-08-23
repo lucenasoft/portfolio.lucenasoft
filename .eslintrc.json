@@ -1,0 +1,7 @@
+{
+  "extends": "eslint:recommended",
+  "$schema": "https://json.schemastore.org/eslintrc",
+  "rules": {
+    "indent": ["error", 2]
+  }
+}
